@@ -1,0 +1,15 @@
+/Users/rosheennaeem/Desktop/MBE Evaluation/frontend/docker-asp/App/bin/Release/net5.0/NetCore.Docker.deps.json
+/Users/rosheennaeem/Desktop/MBE Evaluation/frontend/docker-asp/App/bin/Release/net5.0/NetCore.Docker.runtimeconfig.json
+/Users/rosheennaeem/Desktop/MBE Evaluation/frontend/docker-asp/App/bin/Release/net5.0/NetCore.Docker.runtimeconfig.dev.json
+/Users/rosheennaeem/Desktop/MBE Evaluation/frontend/docker-asp/App/bin/Release/net5.0/NetCore.Docker.dll
+/Users/rosheennaeem/Desktop/MBE Evaluation/frontend/docker-asp/App/bin/Release/net5.0/ref/NetCore.Docker.dll
+/Users/rosheennaeem/Desktop/MBE Evaluation/frontend/docker-asp/App/bin/Release/net5.0/NetCore.Docker.pdb
+/Users/rosheennaeem/Desktop/MBE Evaluation/frontend/docker-asp/App/obj/Release/net5.0/NetCore.Docker.csprojAssemblyReference.cache
+/Users/rosheennaeem/Desktop/MBE Evaluation/frontend/docker-asp/App/obj/Release/net5.0/NetCore.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rosheennaeem/Desktop/MBE Evaluation/frontend/docker-asp/App/obj/Release/net5.0/NetCore.Docker.AssemblyInfoInputs.cache
+/Users/rosheennaeem/Desktop/MBE Evaluation/frontend/docker-asp/App/obj/Release/net5.0/NetCore.Docker.AssemblyInfo.cs
+/Users/rosheennaeem/Desktop/MBE Evaluation/frontend/docker-asp/App/obj/Release/net5.0/NetCore.Docker.csproj.CoreCompileInputs.cache
+/Users/rosheennaeem/Desktop/MBE Evaluation/frontend/docker-asp/App/obj/Release/net5.0/NetCore.Docker.dll
+/Users/rosheennaeem/Desktop/MBE Evaluation/frontend/docker-asp/App/obj/Release/net5.0/ref/NetCore.Docker.dll
+/Users/rosheennaeem/Desktop/MBE Evaluation/frontend/docker-asp/App/obj/Release/net5.0/NetCore.Docker.pdb
+/Users/rosheennaeem/Desktop/MBE Evaluation/frontend/docker-asp/App/obj/Release/net5.0/NetCore.Docker.genruntimeconfig.cache

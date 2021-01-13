@@ -1,0 +1,4 @@
+/Users/rosheennaeem/Desktop/MBE Evaluation/frontend/docker-asp/App/bin/Release/net5.0/publish/NetCore.Docker.dll
+/Users/rosheennaeem/Desktop/MBE Evaluation/frontend/docker-asp/App/bin/Release/net5.0/publish/NetCore.Docker.deps.json
+/Users/rosheennaeem/Desktop/MBE Evaluation/frontend/docker-asp/App/bin/Release/net5.0/publish/NetCore.Docker.runtimeconfig.json
+/Users/rosheennaeem/Desktop/MBE Evaluation/frontend/docker-asp/App/bin/Release/net5.0/publish/NetCore.Docker.pdb
